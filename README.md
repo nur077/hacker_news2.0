@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # hacker_news2.0
 
 [hacker_news](https://github.com/nur077/hacker_news2.0)
+
+# API
+
+[API](https://github.com/HackerNews/API)
